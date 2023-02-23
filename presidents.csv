@@ -1,0 +1,47 @@
+﻿year,number,president
+1789,1,George Washington [John Adams]  1789-1797    Nonpartisan
+1797,2,John Adams  [Thomas Jefferson]  1797-1801   Federalist
+1801,3,Thomas Jefferson  [Aaron Burr]  1801-1809   Democratic-  Republican
+1809,4,James Madison  [George Clinton]  1809-1817   Democratic-  Republican
+1817,5,James Monroe  [Daniel D. Tompkins]  1817-1825   Democratic-  Republican
+1825,6,John Quincy Adams  [John C. Calhoun]  1825-1829   Democratic-  Republican
+1829,7,Andrew Jackson  [John C. Calhoun]  1829-1837   Democratic
+1837,8,Martin Van Buren  [Richard Mentor Johnson]  1837-1841   Democratic
+1841,9,William Henry Harrison  [John Tyler]  1841-1841   Whig
+1841,10,John Tyler  [Office vacant]  1841-1845   Whig  
+1845,11,James K. Polk  [George M. Dallas]  1845-1849   Democratic
+1949,12,Zachary Taylor  [Millard Fillmore]  1849-1850   Whig
+1850,13,Millard Fillmore  [Office vacant]  1850-1853   Whig
+1853,14,Franklin Pierce  [William R. King]  1853-1857   Democratic
+1857,15,James Buchanan  [John C. Breckinridge]  1857-1861   Democratic
+1861,16,Abraham Lincoln  [Hannibal Hamlin]  1861-1865   Republican   ( National Union )  
+1865,17,Andrew Johnson  [Office vacant]  1865-1869   National Union- Democrat
+1869,18,Ulysses S. Grant  [Schuyler Colfax]  1869-1877   Republican
+1877,19,Rutherford B. Hayes  [William A. Wheeler]  1877-1881   Republican
+1881,20,James A. Garfield  [Chester A. Arthur]  1881-1881   Republican
+1881,21,Chester A. Arthur  [Office vacant]  1881-1885   Republican
+1885,22,Grover Cleveland  [Thomas A. Hendricks]  1885-1889   Democratic
+1889,23,Benjamin Harrison  [Levi P. Morton]  1889-1893   Republican
+1893,24,Grover Cleveland  [Adlai Stevenson]  1893-1897   Democratic
+1897,25,William McKinley  [Garret Hobart]  1897-1901   Republican
+1901,26,Theodore Roosevelt  [Office vacant]  1901-1909   Republican
+1909,27,William Howard Taft  [James S. Sherman]  1909-1913   Republican
+1913,28,Woodrow Wilson  [Thomas R. Marshall]  1913-1921   Democratic
+1921,29,Warren G. Harding  [Calvin Coolidge]  1921-1923  Republican
+1923,30,Calvin Coolidge  [Office vacant]  1923-1929   Republican
+1929,31,Herbert Hoover  [Charles Curtis]  1929-1933   Republican
+1933,32,Franklin D. Roosevelt  [John Nance Garner]  1933-1941   Democratic
+1945,33,Harry S. Truman  [Office vacant]  1945-1953   Democratic
+1953,34,Dwight D. Eisenhower  [Richard Nixon]  1953-1961   Republican
+1961,35,John F. Kennedy  [Lyndon B. Johnson]  1961-1963   Democratic
+1963,36,Lyndon B. Johnson  [Office vacant ] 1963-1969   Democratic
+1969,37,Richard Nixon  [Spiro Agnew]  1969-1974   Republican
+1974,38,Gerald Ford  [Office vacant]  1974-1977   Republican
+1977,39,Jimmy Carter  [Walter Mondale]  1977-1981   Democratic
+1981,40,Ronald Reagan  [George H. W. Bush]  1981-1989   Republican
+1989,41,George H. W. Bush  [Dan Quayle]  1989-1993   Republican
+1993,42,Bill Clinton  [Al Gore]  1993-2001   Democratic
+2001,43,George W. Bush  [Dick Cheney]  2001-2009   Republican
+2009,44,Barack Obama  [Joe Biden]  2009- 2017   Democratic
+2017,45,Donald Trump  [Mike Pence]  2017- 2021   Republican
+2021,46,Joe Biden [Kamala Harris]  2021-present   Democratic
